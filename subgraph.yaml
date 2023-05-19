@@ -10,7 +10,7 @@ dataSources:
     name: Factory
     network: zkSync2-testnet
     source:
-      address: '0x49d532498ff8a6835E9bF537B22D416C05EacCC9'
+      address: '0x1B13Ded91dC45F41081FfAbDb56F3e887a7b1EA3'
       abi: Factory
       startBlock: 5051351
     mapping:
@@ -39,7 +39,7 @@ dataSources:
     name: NonfungiblePositionManager
     network: zkSync2-testnet
     source:
-      address: '0x49d532498ff8a6835E9bF537B22D416C05EacCC9'
+      address: '0x350C16f4A6316F7f378744bC69BFD460F0d12266'
       abi: NonfungiblePositionManager
       startBlock: 5054773
     mapping:
